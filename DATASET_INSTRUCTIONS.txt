@@ -1,0 +1,6 @@
+Dataset Instructions
+
+1. Download the intrusion detection dataset from Kaggle or the original source used in the notebook.
+2. Create a folder named `data` in the project directory.
+3. Place the dataset file (CSV) inside the `data` folder.
+4. Ensure the path in the notebook matches the dataset location.
