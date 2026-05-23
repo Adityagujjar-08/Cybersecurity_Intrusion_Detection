@@ -1,0 +1,7 @@
+Model,Rank by Accuracy,Rank by Precision Macro,Rank by Recall Macro,Rank by F1 Macro,Average Rank,Overall Rank
+Extra Trees Classifier,2.0,3.0,1.0,4.0,2.5,1.0
+Decision Tree Classifier,1.0,2.0,2.0,6.0,2.75,2.0
+SGD Linear Classifier,3.0,1.0,3.0,5.0,3.0,3.0
+Logistic Regression,4.0,4.0,4.0,1.0,3.25,4.0
+Random Forest Classifier,5.0,5.0,5.0,3.0,4.5,5.0
+Bernoulli Naive Bayes,6.0,6.0,6.0,2.0,5.0,6.0

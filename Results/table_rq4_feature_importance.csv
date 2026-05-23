@@ -1,0 +1,16 @@
+Rank,Feature,Importance,Interpretation
+1,source_ip_prefix,0.18880656414051916,Associated with model prediction; not causal evidence
+2,proxy_ip_prefix,0.18232741479884787,Associated with model prediction; not causal evidence
+3,destination_ip_prefix,0.16007752525513155,Associated with model prediction; not causal evidence
+4,Packet Length,0.04915321825971683,Associated with model prediction; not causal evidence
+5,Source Port,0.04400160764321655,Associated with model prediction; not causal evidence
+6,dayofweek,0.0412537052015047,Associated with model prediction; not causal evidence
+7,Destination Port,0.038954342676063125,Associated with model prediction; not causal evidence
+8,Protocol,0.03270772792156605,Associated with model prediction; not causal evidence
+9,Alerts/Warnings,0.03270047686678006,Associated with model prediction; not causal evidence
+10,Traffic Type,0.03012265487632339,Associated with model prediction; not causal evidence
+11,Log Source,0.026505445019022775,Associated with model prediction; not causal evidence
+12,IDS/IPS Alerts,0.025981729264942317,Associated with model prediction; not causal evidence
+13,hour,0.025741752950360845,Associated with model prediction; not causal evidence
+14,month,0.02468226457593792,Associated with model prediction; not causal evidence
+15,Malware Indicators,0.024349159649832912,Associated with model prediction; not causal evidence
